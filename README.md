@@ -1,6 +1,6 @@
 # Batch Rename of Horizon Deliverables
 
-## From "Attachment_0.pd" to "Dx.x Title"
+## From "Attachment_0.pdf" to "Dx.x Title.pdf"
 
 Rename a folder of PDFs comprised of your project deliverables in a common way. For example, the European Commissions portal for the Horizon projects renames all uploaded deliverables as "Attachment_0.pdf", therefore, when downloading all the submitted deliverables, it is not possible to distinguish which PDF corresponds to which deliverable.
 
